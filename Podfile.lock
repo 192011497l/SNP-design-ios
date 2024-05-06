@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.16)
+  - razorpay-pod (1.2.5)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - razorpay-pod (= 1.2.5)
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - razorpay-pod
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
+  razorpay-pod: aa2df076ea44baab6cc8296c1ccc715fe2ca818c
+
+PODFILE CHECKSUM: 921400256e51b1661fc0cb2f4693bf7e6001588c
+
+COCOAPODS: 1.14.3
